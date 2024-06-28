@@ -1,9 +1,11 @@
+// add mod to crate tree so that rust-analyzer can analyze the code
 mod contains_duplicate;
-mod is_anagram;
-mod two_sum;
-mod group_anagrams;
 mod encode_and_decode_strings;
+mod group_anagrams;
+mod is_anagram;
+mod is_palindrome;
 mod longest_consecutive;
+mod two_sum;
 fn main() {
     println!("Hello, world!");
 }
