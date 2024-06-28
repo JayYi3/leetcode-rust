@@ -8,6 +8,7 @@ mod longest_consecutive;
 mod two_sum;
 mod two_sum_sorted;
 mod three_sum;
+mod max_area;
 
 fn main() {
     println!("Hello, world!");
