@@ -6,6 +6,8 @@ mod is_anagram;
 mod is_palindrome;
 mod longest_consecutive;
 mod two_sum;
+mod two_sum_sorted;
+
 fn main() {
     println!("Hello, world!");
 }
