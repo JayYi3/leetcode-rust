@@ -7,6 +7,7 @@ mod is_palindrome;
 mod longest_consecutive;
 mod two_sum;
 mod two_sum_sorted;
+mod three_sum;
 
 fn main() {
     println!("Hello, world!");
