@@ -9,6 +9,7 @@ mod two_sum;
 mod two_sum_sorted;
 mod three_sum;
 mod max_area;
+mod max_profit;
 
 fn main() {
     println!("Hello, world!");
