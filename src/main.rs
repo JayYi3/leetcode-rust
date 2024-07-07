@@ -12,6 +12,7 @@ mod max_area;
 mod max_profit;
 mod character_replacement;
 mod min_window;
+mod max_sliding_window;
 
 fn main() {
     println!("Hello, world!");
