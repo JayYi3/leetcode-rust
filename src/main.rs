@@ -18,6 +18,7 @@ mod min_stack;
 mod eval_rpn;
 mod generate_parentheses;
 mod daily_temperatures;
+mod car_fleet;
 
 fn main() {
     println!("Hello, world!");
