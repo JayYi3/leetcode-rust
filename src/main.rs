@@ -15,6 +15,7 @@ mod min_window;
 mod max_sliding_window;
 mod is_vaild;
 mod min_stack;
+mod eval_rpn;
 
 fn main() {
     println!("Hello, world!");
