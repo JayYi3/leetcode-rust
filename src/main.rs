@@ -14,6 +14,7 @@ mod character_replacement;
 mod min_window;
 mod max_sliding_window;
 mod is_vaild;
+mod min_stack;
 
 fn main() {
     println!("Hello, world!");
