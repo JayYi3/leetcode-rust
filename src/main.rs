@@ -13,9 +13,10 @@ mod max_profit;
 mod character_replacement;
 mod min_window;
 mod max_sliding_window;
-mod is_vaild;
+mod is_valid;
 mod min_stack;
 mod eval_rpn;
+mod generate_parentheses;
 
 fn main() {
     println!("Hello, world!");
