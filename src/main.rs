@@ -17,6 +17,7 @@ mod is_valid;
 mod min_stack;
 mod eval_rpn;
 mod generate_parentheses;
+mod daily_temperatures;
 
 fn main() {
     println!("Hello, world!");
