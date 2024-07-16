@@ -19,6 +19,7 @@ mod eval_rpn;
 mod generate_parentheses;
 mod daily_temperatures;
 mod car_fleet;
+mod largest_rectangle_area;
 
 fn main() {
     println!("Hello, world!");
