@@ -1,5 +1,6 @@
 
 fn character_replacement(s: String, k: i32) -> i32 {
+    use std::collections::HashMap;
     let mut char_count = HashMap::new();
     let mut max_count = 0;
     let mut max_length = 0;

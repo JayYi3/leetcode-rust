@@ -20,6 +20,7 @@ mod generate_parentheses;
 mod daily_temperatures;
 mod car_fleet;
 mod largest_rectangle_area;
+mod search;
 
 fn main() {
     println!("Hello, world!");
